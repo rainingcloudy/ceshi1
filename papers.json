@@ -1,0 +1,43 @@
+{
+    "order_year": ["2021", "2020", "2019"],
+    "show_paper_home": "true",
+    "papers": {
+        "2021": [
+            {
+                "title": "Image Super-Resolution Using Deep Convolutional Networks",
+                "authors": "Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang",
+                "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+                "paper_home": "#paper_abstract",
+                "paper": "#paper",
+                "code": "#code"
+            },
+            {
+                "title": "Deep Learning for Image Super-Resolution: A Survey",
+                "authors": "Yulun Zhang, Kunpeng Li, Kai Li, Bineng Zhong, Yun Fu",
+                "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+                "paper_home": "",
+                "paper": "#paper",
+                "code": "#code"
+            }
+        ],
+        "2020": [
+            {
+                "title": "Generative Adversarial Networks",
+                "authors": "Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio",
+                "venue": "Communications of the ACM",
+                "paper_home": "#paper_abstract",
+                "paper": "#paper",
+                "code": ""
+            }
+        ],
+        "2019": [
+            {
+                "title": "Attention Is All You Need",
+                "authors": "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin",
+                "venue": "NeurIPS",
+                "paper": "#paper",
+                "code": "#code"
+            }
+        ]
+    }
+}

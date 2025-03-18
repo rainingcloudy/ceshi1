@@ -1,0 +1,87 @@
+{
+    "order_year": ["2024", "2020", "2022", "2023"],
+    "order_cate": ["PhD", "Master"],
+    "data": {
+        "2024": {
+            "PhD": [
+                {
+                    "name": "王小明",
+                    "photo": "shu.jpg",
+                    "category": "2021级 博士生",
+                    "research": "计算机视觉与模式识别",
+                    "achievements": [
+                        "发表CVPR 2023论文1篇（一作）",
+                        "国家奖学金获得者（2022）"
+                    ],
+                    "destination": "实习经历：微软亚洲研究院（2023.03-2023.09）"
+                }
+            ],
+            "AcademicMaster": [],
+            "ProfessionalMaster": []
+        },
+        "2023": {
+            "ProfessionalMaster": [
+                {
+                    "name": "李晓红",
+                    "photo": "master1.jpg",
+                    "category": "2024级 专硕",
+                    "research": "图像超分辨率重建",
+                    "achievements": [
+                        "ICIP 2023 论文共同作者",
+                        "发明专利：一种基于深度学习的图像增强方法（受理中）"
+                    ],
+                    "destination": "毕业去向：腾讯人工智能实验室"
+                }
+            ]
+        },
+        "2022": {
+            "PhD": [
+                {
+                    "name": "张三",
+                    "photo": "zhangsan.jpg",
+                    "category": "2019级 博士生",
+                    "research": "自然语言处理",
+                    "achievements": [
+                        "发表ACL 2022论文1篇（一作）"
+                    ],
+                    "destination": "毕业去向：阿里巴巴达摩院"
+                }
+            ],
+            "AcademicMaster": [
+                {
+                    "name": "李学硕",
+                    "photo": "academic1.jpg",
+                    "category": "2024级 学硕",
+                    "research": "机器学习",
+                    "achievements": [
+                        "发表ICML 2023论文1篇（二作）"
+                    ],
+                    "destination": "毕业去向：字节跳动AI Lab"
+                }
+            ],
+            "ProfessionalMaster": [
+                {
+                    "name": "张专硕1",
+                    "photo": "professional1.jpg",
+                    "category": "2024级 专硕",
+                    "research": "数据挖掘",
+                    "achievements": [
+                        "发表KDD 2023论文1篇（三作）"
+                    ],
+                    "destination": "毕业去向：阿里巴巴"
+                },
+                {
+                    "name": "张专硕2",
+                    "photo": "professional2.jpg",
+                    "category": "2024级 专硕",
+                    "research": "自然语言处理",
+                    "achievements": [
+                        "发表ACL 2023论文1篇（四作）"
+                    ],
+                    "destination": "毕业去向：腾讯"
+                }
+            ]
+        },
+        "2020": {}
+    }
+}
